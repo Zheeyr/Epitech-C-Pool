@@ -1,5 +1,5 @@
-# Epitech-C-Pool
-# C-Pool-2022
+# Epitech C Pool
+# 2022 / I'm not responsible if you copy and take a -21/-42/-84. Get inspired, understand how it works, if you need help or understanding, feel free to dm me on twitter @Zheeyr or Discord .zrrr!
 Hello! I'm a student from the 2027 promotion. Here it is my Cpool of 2022 
 I have recreated all C Pool with LibC. 
 
