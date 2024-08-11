@@ -47,16 +47,6 @@ int count_valid_queens_placements(int n)
 
 // VERSION WITH ALLOCATE MEMORY, DON'T COPY IF U DON'T KNOW WHAT YOU'RE DOING.
 
-/*
-** EPITECH PROJECT, 2024
-** count_valid_queens_placements
-** File description:
-** Function that computes recursively and returns the number of
-** possible ways to place n queens on an n x n chessboard
-** without them being able to attack each other.
-** Author: Yanis "Zheeyr" R.
-*/
-
 #include <stdlib.h>
 
 int is_safe(int *board, int row, int col, int n)
